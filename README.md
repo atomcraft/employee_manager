@@ -1,1 +1,2 @@
-# employee_manager
+# employeemanager
+App to manage employees
