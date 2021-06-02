@@ -1,4 +1,4 @@
-package tech.getarrays.employeemanager.model;
+package com.my.employeemanager.model;
 
 import javax.persistence.*;
 import java.io.Serializable;

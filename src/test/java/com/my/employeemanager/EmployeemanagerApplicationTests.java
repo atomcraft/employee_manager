@@ -1,4 +1,4 @@
-package tech.getarrays.employeemanager;
+package com.my.employeemanager;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

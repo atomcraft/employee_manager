@@ -1,10 +1,10 @@
-package tech.getarrays.employeemanager.service;
+package com.my.employeemanager.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import tech.getarrays.employeemanager.exception.UserNotFoundException;
-import tech.getarrays.employeemanager.model.Employee;
-import tech.getarrays.employeemanager.repo.EmployeeRepo;
+import com.my.employeemanager.exception.UserNotFoundException;
+import com.my.employeemanager.model.Employee;
+import com.my.employeemanager.repo.EmployeeRepo;
 
 import javax.transaction.Transactional;
 import java.util.List;

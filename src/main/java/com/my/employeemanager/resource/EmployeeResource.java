@@ -1,10 +1,10 @@
-package tech.getarrays.employeemanager.resource;
+package com.my.employeemanager.resource;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import tech.getarrays.employeemanager.model.Employee;
-import tech.getarrays.employeemanager.service.EmployeeService;
+import com.my.employeemanager.model.Employee;
+import com.my.employeemanager.service.EmployeeService;
 
 import java.util.List;
 
